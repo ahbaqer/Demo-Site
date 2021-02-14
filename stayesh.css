@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(16, 153, 203);
+  text-align: center;
+}
+
+h1 {
+  color: rgb(7, 165, 213);
+  font-size: 0px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+h4 {
+  text-size-adjust: 1px;
+  text-align: left;
+}
+img {
+  height: 200px;
+  border-width: 0;
+  border-style: groove;
+}
+
+.card-title {
+  color: rgb(16, 153, 203);
+}
+
+.card-img-top {
+  size: 10px;
+}
+.serv {
+  text-align: left;
+}
+
+.card-img-top {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 100px;
+}
